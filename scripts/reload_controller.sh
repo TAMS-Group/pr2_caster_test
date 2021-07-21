@@ -1,5 +1,6 @@
 #!/bin/bash
 # Author: v4hn@20200814
+# OBSOLETE - v4hn@20210721
 
 # Assuming a file <controller_name>.yaml and a running controller called <controller_name>
 # stop, unload and delete controller configuration, then load it again from the file and start the controller
